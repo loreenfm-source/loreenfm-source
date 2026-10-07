@@ -51,6 +51,6 @@ srsRAN · FlexRIC · O-RAN Near-RT RIC / xApps · deep learning and transformer 
 ## Contact
 
 - Email: loreen_fm@cs.iitr.ac.in
-- [Google Scholar](https://scholar.google.com/citations?user=ra6l3HEAAAAJ\&hl=en) · [LinkedIn](https://www.linkedin.com/in/loreen-mahmoud-363638152/) · [Webpage](sites.google.com/cs.iitr.ac.in/loreen-mahmoud)
+- [Google Scholar](https://scholar.google.com/citations?user=ra6l3HEAAAAJ\&hl=en) · [LinkedIn](https://www.linkedin.com/in/loreen-mahmoud-363638152/) · [Webpage](https://sites.google.com/cs.iitr.ac.in/loreen-mahmoud)
 
 Code for my published work is available on request.
